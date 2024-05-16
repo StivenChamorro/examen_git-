@@ -1,0 +1,5 @@
+editando archivo por primera vez
+editando el archivo desde la rama main
+editando el archivo primera vez desde la rama Qa_branch
+realizando segundo cambio desde la rama qa_branch
+editando el archivo desde main segunda vez
